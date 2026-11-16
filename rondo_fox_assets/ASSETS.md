@@ -150,6 +150,11 @@ def draw_bg(image, tile_w, scroll):
 - `midi/*.mid`: 렌더링에 쓴 원본 MIDI (셈여림은 velocity에 반영). 음색 다시 뽑을 때 사용.
 - 주의: 3스테이지는 렌더링 때 170 BPM 전환이 14박 늦게 걸려서, 그 구간 채보 시간을 음원에 맞춰 옮겨 둠. MIDI로 다시 렌더링하면 채보도 다시 맞춰야 함.
 
+## 기타
+- `fonts/NotoSerifKR-Bold-subset.otf`: Noto Serif KR Bold에서 한글 2,350자 + 영문·숫자만 남긴 글꼴 (SIL OFL, `fonts/OFL.txt`)
+- `objects/ink_drop.png` (24x24): 지휘자가 휘저을 때 날아가는 잉크 방울
+- `ui/dim.png` (8x8): 화면을 어둡게 덮는 판 (opacify로 투명도 조절해서 늘려 그림)
+
 ## 화면 배치 (1280x720)
 - 피트 전경: 1280/1536 배, 난간 윗선이 화면 위에서 y=600.
 - 배경: 0.74배, 위로 41 px 올려 그림 (bgy = -41). 무대 바닥 앞선이 난간 뒤로 숨음.
