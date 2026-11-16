@@ -1,0 +1,88 @@
+{
+ "stage": "stage1_intro",
+ "offset": 0.0,
+ "notes": [
+  {
+   "t": 4.444,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 6.667,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 8.889,
+   "lane": "up",
+   "type": "tap"
+  },
+  {
+   "t": 11.111,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 13.333,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 15.556,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 17.778,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 20.0,
+   "lane": "down",
+   "type": "long",
+   "end": 21.331
+  },
+  {
+   "t": 22.222,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 24.444,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 26.667,
+   "lane": "up",
+   "type": "tap"
+  },
+  {
+   "t": 28.889,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 31.111,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 33.333,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 35.556,
+   "lane": "down",
+   "type": "tap"
+  },
+  {
+   "t": 37.778,
+   "lane": "down",
+   "type": "tap"
+  }
+ ],
+ "audio": "stage1_intro.mp3"
+}
